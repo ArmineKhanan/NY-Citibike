@@ -2,7 +2,7 @@
 
 ## Overview
 
-Tell a story with the help of Tableau based on the analysis of August, 2019 trip data.
+The ultimate goal of the project is to tell a story with the help of Tableau based on August, 2019 trip data of the bike service.
 
 ## Results
 
