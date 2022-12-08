@@ -34,12 +34,10 @@ Not ore bikes are equal either. Some of them are used too often and consequently
 <kbd><img src="https://github.com/ArmineKhanan/NY-Citibike/blob/main/graph_images/Screen%20Shot%202022-12-05%20at%2010.39.51%20PM.png" width="700"/></kbd>
 
 ## Summary
+Two main conclusions of the analysis are:
+1. The <b>typical customer</b> is an adult male subscribed to the service as a regular customer
+2. The most <b>typical user experience</b> is up to a 20-minute ride in the territory of Manhatten borough.
 
-To major conclusions of the analysis are:
-
-1) The typical <b>customer</b> is an adult male who is subcribed tho the service. 
-2) The most typical <b>user experience</b> is up to 20 minute ride within the area of Manhatten. 
-
-It would be also useful to add: 
-* Big numers (KPIs), e.g. Average frequency of bike usage per customer, Max length of the ride daily, etc.
-* Crosstabs for different dimensions such as gender, age and subscription tipe.
+It would also be meaningful to add the following visuals to the analysis:
+* Big numbers (KPIs), e.g., Average frequency of bike usage per customer, Max length of the ride daily, etc.
+* Crosstabs for different dimensions such as gender, age, and subscription type.
