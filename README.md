@@ -2,9 +2,10 @@
 
 ## Overview
 
-The ultimate goal of the project is to tell a story with the help of Tableau based on August, 2019 trip data of the bike service.
+After a trip to New York City our friends get inspired to establish bike-share program in their hometown of Des Moines. In order to prepare a proposal for a potential angel investor, now our aim is to figure out how bikesharing business actually works in New York City.
 
 ## Results
+To complete the analysis we leveraged (CitiBike)[https://ride.citibikenyc.com/system-data] site data and based our analysis on July 2028 trips.
 
 The Tableau workbook is uploaded here: https://public.tableau.com/app/profile/armine2415/viz/NYCBikeTripAnalysis_16702368914740/NYCBikeTripAnalysis
 
