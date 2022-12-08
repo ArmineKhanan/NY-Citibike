@@ -27,7 +27,7 @@ That's also worth mentioning that the start and end points of rides are not diff
 <kbd><img src="https://github.com/ArmineKhanan/NY-Citibike/blob/main/graph_images/Screen%20Shot%202022-12-05%20at%2010.39.33%20PM.png" width="700"/></kbd>
 
 #### Number of Rides per Bike? Graph 8
-Not ore bike are equal either, some of them are used too often and consequently need more support.
+Not ore bike are equal either, some of them are used too often and consequently need being repaired more often.
 <kbd><img src="https://github.com/ArmineKhanan/NY-Citibike/blob/main/graph_images/Screen%20Shot%202022-12-05%20at%2010.39.51%20PM.png" width="700"/></kbd>
 
 ## Summary
