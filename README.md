@@ -14,7 +14,7 @@ The very first section of our Tableau story examines the distribution of the rid
 <kbd><img src="https://github.com/ArmineKhanan/NY-Citibike/blob/main/graph_images/Screen%20Shot%202022-12-05%20at%2010.38.30%20PM.png" width="700"/></kbd>
 
 #### Chekout Time for Different Groups? Graph 3
-In the second section the user can disaggregate the same plot based on gender, age and user tipe to compare riding patterns of different groups.
+In the second section the user can disaggregate the same plot based on gender, age and user tipe to compare riding patterns of different groups. 
 <kbd><img src="https://github.com/ArmineKhanan/NY-Citibike/blob/main/graph_images/Screen%20Shot%202022-12-05%20at%2010.38.50%20PM.png" width="700"/></kbd>
 
 #### Weekly and Daily Patterns of the Number of Rides? Graph 4 & 5
@@ -32,4 +32,10 @@ Not ore bike are equal either, some of them are used too often and consequently 
 
 ## Summary
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis.
+To major conclusions of the analysis are:
+The typical <b>customer</b> is an adult male who is subcribed tho the service. 
+The most typical <b>user experience</b> is up to 20 minute ride within the area of Manhatten. 
+
+It would be also useful to add: 
+* Big numers (KPIs), e.g. Average frequency of bike usage per customer, Max length of the ride daily, etc.
+* Crosstabs for different dimensions such as gender, age and subscription tipe.
