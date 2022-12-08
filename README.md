@@ -9,7 +9,7 @@ The ultimate goal of the project is to tell a story with the help of Tableau bas
 The Tableau workbook is uploaded here: https://public.tableau.com/app/profile/armine2415/viz/NYCBikeTripAnalysis_16702368914740/NYCBikeTripAnalysis
 
 #### Graph 1 & 2
-<img src="https://github.com/ArmineKhanan/NY-Citibike/blob/main/graph_images/Screen%20Shot%202022-12-05%20at%2010.38.30%20PM.png" width="700"/>
+<img src="https://github.com/ArmineKhanan/NY-Citibike/blob/main/graph_images/Screen%20Shot%202022-12-05%20at%2010.38.30%20PM.png" width="700" border="1px solid red"/>
 
 #### Graph 3
 <img src="https://github.com/ArmineKhanan/NY-Citibike/blob/main/graph_images/Screen%20Shot%202022-12-05%20at%2010.38.50%20PM.png" width="700"/>
