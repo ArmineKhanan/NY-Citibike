@@ -33,8 +33,10 @@ Not ore bike are equal either, some of them are used too often and consequently 
 ## Summary
 
 To major conclusions of the analysis are:
-The typical <b>customer</b> is an adult male who is subcribed tho the service. 
-The most typical <b>user experience</b> is up to 20 minute ride within the area of Manhatten. 
+
+1) The typical <b>customer</b> is an adult male who is subcribed tho the service. 
+
+2) The most typical <b>user experience</b> is up to 20 minute ride within the area of Manhatten. 
 
 It would be also useful to add: 
 * Big numers (KPIs), e.g. Average frequency of bike usage per customer, Max length of the ride daily, etc.
