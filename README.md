@@ -3,7 +3,8 @@
 ## Overview
 After a trip to New York City, our friends get inspired to establish a bike-share program in their hometown of Des Moines. To prepare a proposal for a potential angel investor, we have to first figure out how the bike-sharing business works in New York City.
 
-To complete the analysis, we leveraged [CitiBike site](https://ride.citibikenyc.com/system-data) data and based it on July 2019 trip data. Access the Tableau workbookhere: [NYC Bike Trip Analysis](https://public.tableau.com/app/profile/armine2415/viz/NYCBikeTripAnalysis_16702368914740/NYCBikeTripAnalysis)
+To complete the analysis, we leveraged [CitiBike site](https://ride.citibikenyc.com/system-data) data and based it on July 2019 trip data. 
+Access the Tableau workbookhere: [NYC Bike Trip Analysis](https://public.tableau.com/app/profile/armine2415/viz/NYCBikeTripAnalysis_16702368914740/NYCBikeTripAnalysis)
 
 ## Results
 
