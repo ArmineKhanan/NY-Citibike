@@ -26,7 +26,7 @@ Not all days and hours are equal. The visuals bellow allow developing assumption
 <kbd><img src="https://github.com/ArmineKhanan/NY-Citibike/blob/main/graph_images/Screen%20Shot%202022-12-05%20at%2010.39.14%20PM.png" width="700"/></kbd>
 
 #### Trip Geography? Graph 6 & 7
-The next section of Tableau story is devoted to the geography. As we can see from the chart below the most rides are concentrated in Manhatten and adjucent territories. Our purpose is to nderstand why business works best in certain areas.
+The next section of Tableau story is devoted to the geography. As we can see from the chart below the most rides are concentrated in the borough of Manhatten and adjucent territories. Our purpose is to nderstand why business works best in certain areas.
 
 It is also worth mentioning that the start and end points of rides are not differ much. Hence, logistics/redistribution costs are supposed not to be too high for the business.
 
